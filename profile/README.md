@@ -7,7 +7,7 @@
 Every day, developers build amazing things that nobody sees.<br>
 We find the best ones, turn each into a ~30-second reel, and always credit the person or team who built it.
 
-[**▶ YouTube Shorts**](https://www.youtube.com/channel/UCZSK84H5iQ9g_Gt4DoeiHzw) · [**📸 Instagram @cherrypicked.dev**](https://www.instagram.com/cherrypicked.dev/) · [**𝕏 @cherrypickedhq**](https://x.com/cherrypickedhq) · [**👽 r/cherrypickedhq**](https://www.reddit.com/r/cherrypickedhq/) · [**📋 Every featured repo**](https://github.com/cherrypickedhq/featured#featured)
+[**▶ YouTube Shorts**](https://www.youtube.com/channel/UCZSK84H5iQ9g_Gt4DoeiHzw) · [**📸 Instagram @cherrypicked.dev**](https://www.instagram.com/cherrypicked.dev/) · [**🦋 Bluesky @cherrypickedhq.bsky.social**](https://bsky.app/profile/cherrypickedhq.bsky.social) · [**𝕏 @cherrypickedhq**](https://x.com/cherrypickedhq) · [**👽 r/cherrypickedhq**](https://www.reddit.com/r/cherrypickedhq/) · [**📋 Every featured repo**](https://github.com/cherrypickedhq/featured#featured)
 
 </div>
 
